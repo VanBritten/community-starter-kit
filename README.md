@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- epic gamers are epic
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- be an epic gamer
 
 ## Getting started
 
